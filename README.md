@@ -20,3 +20,7 @@ screenshot 1
 
 ![scr4](https://user-images.githubusercontent.com/76108792/148382379-290474ff-77e4-488e-960c-e0b5fa2b659f.PNG)
 
+Team Members:
+[Nursultan Temirgaziev](https://github.com/temirgazievv23)
+[Azizkhan Azemkulov](https://github.com/zemCool)
+
